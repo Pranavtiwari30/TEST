@@ -40,4 +40,4 @@ Ensure these files are present in the same directory as the script.
 ### Steps to Run the Script
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pranavtiwari30/TEST
+   git clone https://github.com/Pranavtiwari30/Text-Sentiment-Analysis
